@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/pakdemir_sude/my-website.git
+git add.
+git commit-m "ilk yükleme"
+git push -u origin master
